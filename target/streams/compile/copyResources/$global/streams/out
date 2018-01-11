@@ -1,0 +1,7 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(D:\NewFolder\RENTEASY\conf\application.conf,D:\NewFolder\RENTEASY\target\scala-2.11\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(D:\NewFolder\RENTEASY\conf\evolutions,D:\NewFolder\RENTEASY\target\scala-2.11\classes\evolutions)[0m
+[0m[[0mdebug[0m] [0m	(D:\NewFolder\RENTEASY\conf\logger.xml,D:\NewFolder\RENTEASY\target\scala-2.11\classes\logger.xml)[0m
+[0m[[0mdebug[0m] [0m	(D:\NewFolder\RENTEASY\conf\routes,D:\NewFolder\RENTEASY\target\scala-2.11\classes\routes)[0m
+[0m[[0mdebug[0m] [0m	(D:\NewFolder\RENTEASY\conf\evolutions\default,D:\NewFolder\RENTEASY\target\scala-2.11\classes\evolutions\default)[0m
+[0m[[0mdebug[0m] [0m	(D:\NewFolder\RENTEASY\conf\evolutions\default\1.sql,D:\NewFolder\RENTEASY\target\scala-2.11\classes\evolutions\default\1.sql)[0m
